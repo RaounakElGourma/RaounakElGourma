@@ -54,11 +54,7 @@ Performance analysis on retinal datasets
 - 💼 LinkedIn: www.linkedin.com/in/raounak-el-gourma
 - 📧 Email: elgraounak@gmail.com
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=radical" />
-</p>
 
 <!--
 **RaounakElGourma/RaounakElGourma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
