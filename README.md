@@ -29,7 +29,7 @@ Interactive Flask web interface
 
 ---
 
-### 📦 Parcel Volume Estimation (In Progress)
+### 📦 Parcel Volume Estimation
 Automatic volume estimation from images  
 Computer Vision-based logistics solution  
 
