@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>raounak el gourma</h1>
-<p><em>ai engineer &nbsp;·&nbsp; computer vision &nbsp;·&nbsp; morocco 🇲🇦</em></p>
+<p><em>ai engineer &nbsp;·&nbsp; computer vision &nbsp;·&nbsp; llms &amp; vlms &nbsp;·&nbsp; morocco 🇲🇦</em></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=18&pause=1000&color=E8A0A0&center=true&vCenter=true&width=500&lines=building+systems+that+see+%26+understand;computer+vision+%7C+LLMs+%7C+VLMs;from+pixels+to+language+%26+back;currently%3A+clothing+understanding+for+CCTV" alt="typing" />
 
@@ -22,8 +22,8 @@
 > i build ai systems that see, understand, and reason — from raw pixels to language and back.
 > computer vision is my core, but i'm drawn to where vision meets language: VLMs, multimodal reasoning, and systems that do more than classify.
 
-- 🔭 currently building a clothing understanding pipeline for CCTV environments
-- 🌱 exploring LLMs · VLMs · multimodal AI · tracking stability · edge deployment
+- 🔭 currently **computer vision engineer intern** at nextronic / aba technology
+- 🌱 exploring VLMs · multimodal AI · tracking stability · edge deployment
 - 💬 into object detection · OCR · medical imaging · NLP · generative AI
 
 ---
@@ -37,16 +37,14 @@
 ![YOLOv8](https://img.shields.io/badge/yolov8-%23E8A0A0?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23E8A0A0?style=flat-square&logo=opencv&logoColor=white)
 ![ByteTrack](https://img.shields.io/badge/bytetrack-%23E8A0A0?style=flat-square&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/efficientnet-%23E8A0A0?style=flat-square&logoColor=white)
-![Tesseract](https://img.shields.io/badge/tesseract_ocr-%23E8A0A0?style=flat-square&logoColor=white)
 
-**llms & multimodal**
+**vlms & multimodal**
 
 ![HuggingFace](https://img.shields.io/badge/hugging_face-%23E8A0A0?style=flat-square&logo=huggingface&logoColor=white)
 ![Transformers](https://img.shields.io/badge/transformers-%23E8A0A0?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%23E8A0A0?style=flat-square&logoColor=white)
-![VLMs](https://img.shields.io/badge/vlms_%28clip·llava·blip%29-%23E8A0A0?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23E8A0A0?style=flat-square&logoColor=white)
+![Qwen](https://img.shields.io/badge/qwen-%23E8A0A0?style=flat-square&logo=alibabadotcom&logoColor=white)
+![LLaVA](https://img.shields.io/badge/llava-%23E8A0A0?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23E8A0A0?style=flat-square&logo=ollama&logoColor=white)
 
 **ml / dl**
 
@@ -67,44 +65,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23E8A0A0?style=flat-square&logo=pandas&logoColor=white)
 
 </div>
-
----
-
-### ✦ projects
-
-**clothing understanding pipeline** &nbsp;·&nbsp; *nextronic / aba technology, 2026*
-<br/>surveillance-grade system for clothing & appearance recognition in CCTV/RTSP streams — detection, ByteTrack tracking, body-type routing, hierarchical attribute classification, temporal voting, head attribute recognition.
-<br/>`pytorch` `yolov8` `bytetrack` `efficientnet-b3` `opencv`
-
-<br/>
-
-**moroccan plate & sim detection** &nbsp;·&nbsp; *ems maroc, 2025*
-<br/>real-time YOLO + OCR pipeline for license plate and SIM card phone number extraction, with a live Flask web demo.
-<br/>`yolov8` `EasyOCR` `opencv` `flask`
-
-<br/>
-
-**cv matching & scoring** &nbsp;·&nbsp; *omni consulting, 2025*
-<br/>NLP system that compares CVs against job descriptions and ranks candidates for automated HR pre-screening.
-<br/>`transformers` `scikit-learn` `pandas`
-
-<br/>
-
-**diabetic retinopathy detection** &nbsp;·&nbsp; *chu oujda, 2024*
-<br/>CNN classifier for retinopathy severity from retinal fundus images, trained on clinical datasets.
-<br/>`tensorflow/keras` `opencv`
-
-<br/>
-
-**parcel volume estimation**
-<br/>automatic 3D volume estimation from 2D images for logistics automation.
-<br/>`opencv` `deep learning`
-
-<br/>
-
-**agrobot – crop recommendation**
-<br/>random forest crop recommendation system using soil and climate data.
-<br/>`scikit-learn` `pandas`
 
 ---
 
