@@ -56,7 +56,7 @@ Currently working as a:
 - Transformers
 - LLMs
 - VLMs
-- YOLOv8 / YOLOv11
+
 
 ---
 
