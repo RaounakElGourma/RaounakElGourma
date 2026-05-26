@@ -1,74 +1,79 @@
-<div align="center">
-
-<h1>raounak el gourma</h1>
-<p><em>ai engineer &nbsp;·&nbsp; computer vision &nbsp;·&nbsp; llms &amp; vlms &nbsp;·&nbsp; morocco 🇲🇦</em></p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=18&pause=1000&color=E8A0A0&center=true&vCenter=true&width=500&lines=building+systems+that+see+%26+understand;computer+vision+%7C+LLMs+%7C+VLMs;from+pixels+to+language+%26+back;currently%3A+clothing+understanding+for+CCTV" alt="typing" />
-
-<br/>
-
-[![linkedin](https://img.shields.io/badge/linkedin-%23E8A0A0.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raounak-el-gourma)
-[![gmail](https://img.shields.io/badge/gmail-%23E8A0A0.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:elgraounak@gmail.com)
-[![portfolio](https://img.shields.io/badge/portfolio-%23E8A0A0.svg?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link)
-
-</div>
-
-<br/>
+# 👋 hey, i'm raounak
+### ai engineer · computer vision specialist
+building intelligent systems with a focus on computer vision, deep learning, and generative ai ✨
 
 ---
 
-### ✦ about
+## 💻 programming languages
 
-> i build ai systems that see, understand, and reason — from raw pixels to language and back.
-> computer vision is my core, but i'm drawn to where vision meets language: VLMs, multimodal reasoning, and systems that do more than classify.
-
-- 🔭 currently **computer vision engineer intern** at nextronic / aba technology
-- 🌱 growing into the full AI engineering stack — from vision to language to deployment
-- 💬 passionate about building real systems
-
----
-
-### ✦ stack
-
-<div align="center">
-
-**vision & detection**
-
-![YOLOv8](https://img.shields.io/badge/yolov8-%23E8A0A0?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23E8A0A0?style=flat-square&logo=opencv&logoColor=white)
-![ByteTrack](https://img.shields.io/badge/bytetrack-%23E8A0A0?style=flat-square&logoColor=white)
-
-**vlms & multimodal**
-
-![HuggingFace](https://img.shields.io/badge/hugging_face-%23E8A0A0?style=flat-square&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/transformers-%23E8A0A0?style=flat-square&logoColor=white)
-![Qwen](https://img.shields.io/badge/qwen-%23E8A0A0?style=flat-square&logo=alibabadotcom&logoColor=white)
-![LLaVA](https://img.shields.io/badge/llava-%23E8A0A0?style=flat-square&logo=meta&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23E8A0A0?style=flat-square&logo=ollama&logoColor=white)
-
-**ml / dl**
-
-![PyTorch](https://img.shields.io/badge/pytorch-%23E8A0A0?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23E8A0A0?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23E8A0A0?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23E8A0A0?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**languages & tools**
-
-![Python](https://img.shields.io/badge/python-%23E8A0A0?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23E8A0A0?style=flat-square&logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23E8A0A0?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23E8A0A0?style=flat-square&logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23E8A0A0?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23E8A0A0?style=flat-square&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23E8A0A0?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23E8A0A0?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
+![Python](https://img.shields.io/badge/Python-%23E8A0A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%23E8A0A0?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23E8A0A0?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E8A0A0?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23E8A0A0?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### ✦ stats
+## 🧠 artificial intelligence
+
+- machine learning
+- deep learning
+- natural language processing
+- generative ai
+- large language models (LLMs)
+- vision language models (VLMs)
+
+### currently exploring
+- qwen · llava
+- multimodal ai
+- ai agents
+- RAG systems
+
+---
+
+## 👁️ computer vision
+
+- image processing
+- object detection (YOLO)
+- multi-object tracking (ByteTrack)
+- CNN architectures
+- OCR
+- real-time video analysis
+- surveillance & CCTV pipelines
+
+---
+
+## 🛠️ libraries & tools
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23E8A0A0?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23E8A0A0?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23E8A0A0?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23E8A0A0?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23E8A0A0?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23E8A0A0?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23E8A0A0?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23E8A0A0?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E8A0A0?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23E8A0A0?style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23E8A0A0?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23E8A0A0?style=for-the-badge&logo=streamlit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23E8A0A0?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23E8A0A0?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23E8A0A0?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 interests
+
+- autonomous & real-time ai systems
+- multimodal ai · vision + language
+- ai for surveillance & smart environments
+- medical imaging & ai for healthcare
+- research & building from scratch
+
+---
+
+## 📊 stats
 
 <div align="center">
 
@@ -81,5 +86,13 @@
 ---
 
 <div align="center">
-<sub>open to opportunities &nbsp;·&nbsp; collaborations &nbsp;·&nbsp; interesting problems 🌸</sub>
+
+[![linkedin](https://img.shields.io/badge/linkedin-%23E8A0A0.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raounak-el-gourma)
+[![gmail](https://img.shields.io/badge/gmail-%23E8A0A0.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:elgraounak@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-%23E8A0A0.svg?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link)
+
+<br/>
+
+*"learning by building."* ✨
+
 </div>
