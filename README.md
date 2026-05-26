@@ -36,7 +36,6 @@ I design systems that **see**, **understand**, and **decide** — from real-time
 
 ## 🔭 &nbsp;Current Focus
 
-![](https://img.shields.io/badge/👁️_Clothing_Attribute_Detection-YOLO_Pipelines-a78bfa?style=for-the-badge)
 ![](https://img.shields.io/badge/🤖_Vision--Language_Models-Qwen_·_LLaVA-7c3aed?style=for-the-badge)
 ![](https://img.shields.io/badge/🧠_LLMs_&_Transformers-RAG_·_Fine--tuning-6d28d9?style=for-the-badge)
 ![](https://img.shields.io/badge/⚡_Real--Time_Inference-ONNX_·_Edge-5b21b6?style=for-the-badge)
