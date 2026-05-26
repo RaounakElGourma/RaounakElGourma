@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Raounak El Gourma
+# Raounak El Gourma
 
 ### AI Engineer • Computer Vision Engineer • ML Enthusiast
 
