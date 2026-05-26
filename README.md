@@ -25,11 +25,10 @@
 
 ### 👋 &nbsp;About Me
 
-I'm a **Computer Vision & AI Engineer** from Morocco 🇲🇦, currently interning at **Nextronic / ABA Technology** — building YOLO-based pipelines for clothing attribute recognition.
+I'm a **Computer Vision & AI Engineer** from Morocco 🇲🇦, currently interning at **Nextronic / ABA Technology**.
 
 I design systems that **see**, **understand**, and **decide** — from real-time object detection to medical imaging and LLM-powered tools.
 
-Pursuing an **MSc in AI & IoT** at the Center of Excellence in Automotive & Aeronautics.
 
 <br clear="right"/>
 
