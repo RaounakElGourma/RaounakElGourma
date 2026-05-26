@@ -1,130 +1,105 @@
 <div align="center">
 
-```
-```
+<br>
 
-# hi there, i'm Raounak El Gourma 👋
+# Raounak El Gourma
 
-**`AI/ML Engineer • Computer Vision Enthusiast • Deep Learning Practitioner`**
+**Computer Vision Engineer · AI/ML Engineer**
 
-*currently an intern @ **Nextronic ABA Technology** 🏢*
+*Building intelligent systems that see, learn, and decide.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Vision+%7C+Object+Detection+%7C+OCR;LLMs+%7C+VLMs+%7C+Transformers;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raounak--el--gourma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raounak-el-gourma/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-raounakelgourma.github.io-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://raounakelgourma.github.io/Portfolio)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-elgraounak@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elgraounak@gmail.com)
+&nbsp;&nbsp;
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square)](https://www.linkedin.com/in/raounak-el-gourma/)
+
+<br>
+
+---
 
 </div>
 
----
+## About
 
-## 🌸 who am i?
+I'm a Computer Vision and AI Engineer currently interning at **Nextronic / ABA Technology**, where I build YOLO-based pipelines for clothing attribute recognition — from dataset annotation to full deployment.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name       = "Raounak El Gourma"
-        self.role       = "AI/ML & Computer Vision Engineer"
-        self.current    = "Intern @ Nextronic ABA Technology"
-        self.location   = "🌍 Morocco"
-        self.passion    = ["Vision AI", "Deep Learning", "LLMs", "Building cool systems"]
-        self.status     = "open to opportunities ✨"
+My work sits at the intersection of **visual perception** and **applied deep learning**: I design systems that extract meaningful information from images and video, whether that's detecting license plates in real time, classifying diabetic retinopathy from medical scans, or matching candidates to job descriptions with language models.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🤝")
+Currently pursuing a **Master of Excellence in AI & IoT** at the Center of Excellence in Automotive & Aeronautics, Morocco.
 
-me = AIEngineer()
-me.say_hi()
-```
+<br>
 
 ---
 
-## 🧠 tech stack & skills
+## Experience
 
-### 🐍 languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+| Period | Role | Company |
+|---|---|---|
+| 2026 – Present | Computer Vision Engineer Intern | Nextronic / ABA Technology |
+| Jul – Sep 2025 | ML & Computer Vision Intern | EMS Maroc |
+| Jul – Aug 2025 | Data Science Intern | Omni Consulting *(Remote)* |
+| Jul 2024 | Computer Vision Intern | CHU Oujda |
 
-### 🤖 ai / ml / dl
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 👁️ computer vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-YOLOv8 • YOLOv11 • Image Processing • Object Detection • OCR
-
-### 🧬 ai domains
-Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • VLMs • Transformers
-
-### 🛠️ tools
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🖥️ environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<br>
 
 ---
 
-## 💼 currently
+## Expertise
+
+**Computer Vision**
+&nbsp;·&nbsp; Object Detection (YOLOv8, YOLOv11)
+&nbsp;·&nbsp; Image Processing & Augmentation
+&nbsp;·&nbsp; OCR Pipelines
+&nbsp;·&nbsp; Medical Imaging
+
+**Artificial Intelligence**
+&nbsp;·&nbsp; Deep Learning & CNNs
+&nbsp;·&nbsp; LLMs & VLMs
+&nbsp;·&nbsp; Transformers
+&nbsp;·&nbsp; NLP
+
+**Stack**
+&nbsp;·&nbsp; Python · PyTorch · TensorFlow · OpenCV
+&nbsp;·&nbsp; HuggingFace · Scikit-learn · NumPy · Pandas
+&nbsp;·&nbsp; Flask · Streamlit · Linux · Git · C++
+
+<br>
+
+---
+
+## Open To
 
 ```
-🏢 Intern @ Nextronic ABA Technology
-🔭 Building AI-powered vision systems
-🌱 Exploring VLMs & multimodal architectures
-⚡ Working on YOLO-based detection pipelines
+· All Data roles            (Data Scientist, Data Analyst, Data Engineer)
+· AI / ML Engineer roles
+· Computer Vision Engineer roles
+· Freelance projects
+· Research collaborations & open source
 ```
 
----
-
-## 🌟 open to
-
-| role | status |
-|------|--------|
-| 📊 Data Roles | ✅ Open |
-| 🤖 AI/ML Engineer | ✅ Open |
-| 👁️ Computer Vision Engineer | ✅ Open |
-| 💻 Freelance Projects | ✅ Open |
-| 🤝 Collaboration | ✅ Open |
-
----
-
-## 💫 interests
-
-- 👁️ Vision AI & real-world perception systems  
-- 🧠 LLMs & VLMs (language + vision intelligence)  
-- 🎯 YOLO models & real-time detection  
-- 🔬 Transformers & attention-based models  
-- 📊 AI for practical applications  
-- 🛠️ Building end-to-end intelligent pipelines  
-
----
-
-## 🤝 let's connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raounak-el-gourma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9A?style=for-the-badge&logo=firefox&logoColor=white)](https://raounakelgourma.github.io/Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaounakElGourma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgraounak@gmail.com)
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it."* 🚀
+## GitHub Activity
+
+![Raounak's Stats](https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=FF6B35&bg_color=ffffff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff)
+
+<br>
+
+---
+
+*Morocco 🇲🇦 · Available for remote & on-site opportunities*
+
+**[linkedin.com/in/raounak-el-gourma](https://www.linkedin.com/in/raounak-el-gourma/) · [raounakelgourma.github.io/Portfolio](https://raounakelgourma.github.io/Portfolio)**
 
 </div>
