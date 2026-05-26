@@ -1,85 +1,121 @@
-# 👋 hey, i'm raounak
-### ai engineer · computer vision specialist
-building intelligent systems with a focus on computer vision, deep learning, and generative ai ✨
+<div align="center">
+
+# ✨ Raounak El Gourma
+
+### AI Engineer • Computer Vision Engineer • ML Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;AI+%26+ML+Enthusiast;Building+YOLO+%2B+OCR+Systems;Exploring+LLMs+%26+VLMs;Turning+Ideas+Into+Intelligent+Systems" />
+
+</div>
 
 ---
 
-## 💻 programming languages
+## 🌸 About Me
 
-![Python](https://img.shields.io/badge/Python-%23E8A0A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23E8A0A0?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23E8A0A0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23E8A0A0?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23E8A0A0?style=for-the-badge&logo=mysql&logoColor=white)
+Hi ✨  
+I'm **Raounak El Gourma**, an AI & Computer Vision enthusiast passionate about building intelligent systems that combine creativity with real-world impact.
 
----
+I enjoy working on:
+- 👁️ Computer Vision
+- 🤖 Deep Learning
+- 🧠 LLMs & Vision-Language Models
+- 🎯 Object Detection & OCR
+- ⚡ Real-time AI systems
 
-## 🧠 artificial intelligence
+Currently working as a:
 
-- machine learning
-- deep learning
-- natural language processing
-- generative ai
-- large language models (LLMs)
-- vision language models (VLMs)
-
-### currently exploring
-- qwen · llava
-- multimodal ai
-- ai agents
-- RAG systems
+💼 **Computer Vision Intern at Nextronic / ABA Technology**
 
 ---
 
-## 👁️ computer vision
+# 💻 Tech Stack
 
-- image processing
-- object detection (YOLO)
-- multi-object tracking (ByteTrack)
-- CNN architectures
+### 👩‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
+
+---
+
+### 🤖 AI / ML / DL
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=scikitlearn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface)
+
+### ✨ Areas of Interest
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Transformers
+- LLMs
+- VLMs
+- YOLOv8 / YOLOv11
+
+---
+
+### 👁️ Computer Vision
+
+- Image Processing
+- Object Detection
 - OCR
-- real-time video analysis
-- surveillance & CCTV pipelines
+- CNNs
+- Real-Time Detection Pipelines
+- Tracking Systems
+- Attribute Recognition
 
 ---
 
-## 🛠️ libraries & tools
+### 🛠️ Tools & Libraries
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23E8A0A0?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23E8A0A0?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23E8A0A0?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23E8A0A0?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23E8A0A0?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23E8A0A0?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23E8A0A0?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23E8A0A0?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E8A0A0?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23E8A0A0?style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23E8A0A0?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23E8A0A0?style=for-the-badge&logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23E8A0A0?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23E8A0A0?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23E8A0A0?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🚀 interests
+# 🌙 Current Focus
 
-- autonomous & real-time ai systems
-- multimodal ai · vision + language
-- ai for surveillance & smart environments
-- medical imaging & ai for healthcare
-- research & building from scratch
+- 🔍 Real-time Computer Vision systems
+- 🧠 Advanced Deep Learning architectures
+- 🤖 LLMs & Vision-Language Models
+- ⚡ YOLO-based AI pipelines
+- 🎯 OCR & intelligent detection systems
 
 ---
 
-## 📊 stats
+# 🌐 Open To
+
+```yaml
+- Data roles
+- AI/ML Engineer roles
+- Computer Vision Engineer roles
+- Freelance projects
+- Collaboration opportunities
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=rose_pine&hide_border=true&hide_title=true&icon_color=E8A0A0&text_color=c9c9c9&bg_color=00000000)
-&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=rose_pine&hide_border=true&text_color=c9c9c9&bg_color=00000000)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 
 </div>
 
@@ -87,12 +123,6 @@ building intelligent systems with a focus on computer vision, deep learning, and
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/linkedin-%23E8A0A0.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raounak-el-gourma)
-[![gmail](https://img.shields.io/badge/gmail-%23E8A0A0.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:elgraounak@gmail.com)
-[![portfolio](https://img.shields.io/badge/portfolio-%23E8A0A0.svg?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link)
-
-<br/>
-
-*"learning by building."* ✨
+✨ *Building intelligent systems that can see and understand the world.* ✨
 
 </div>
