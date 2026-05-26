@@ -3,7 +3,7 @@
 ```
 ```
 
-# hi there, i'm [your name] 👋
+# hi there, i'm Raounak El Gourma 👋
 
 **`AI/ML Engineer • Computer Vision Enthusiast • Deep Learning Practitioner`**
 
