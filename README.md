@@ -24,7 +24,7 @@
 
 - 🔭 currently **computer vision engineer intern** at nextronic / aba technology
 - 🌱 growing into the full AI engineering stack — from vision to language to deployment
-- 💬 passionate about building real systems, not just training models
+- 💬 passionate about building real systems
 
 ---
 
