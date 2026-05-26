@@ -7,7 +7,7 @@
 
 **`AI/ML Engineer • Computer Vision Enthusiast • Deep Learning Practitioner`**
 
-*currently building intelligent systems @ **Nextronic ABA Technology** 🏢*
+*currently an intern @ **Nextronic ABA Technology** 🏢*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Vision+%7C+Object+Detection+%7C+OCR;LLMs+%7C+VLMs+%7C+Transformers;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
