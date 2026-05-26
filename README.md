@@ -36,26 +36,10 @@ I design systems that **see**, **understand**, and **decide** — from real-time
 
 ## 🔭 &nbsp;Current Focus
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <b>👁️ Clothing Attribute Detection</b><br/>
-      <sub>YOLO-based recognition pipelines at Nextronic / ABA Technology</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🤖 Vision-Language Models</b><br/>
-      <sub>Exploring VLMs — CLIP, LLaVA, multimodal reasoning</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🧠 LLMs & Transformers</b><br/>
-      <sub>Fine-tuning, RAG pipelines, and prompt engineering</sub>
-    </td>
-    <td align="center" width="200">
-      <b>⚡ Real-Time Inference</b><br/>
-      <sub>Edge deployment, ONNX, optimized CV pipelines</sub>
-    </td>
-  </tr>
-</table>
+![](https://img.shields.io/badge/👁️_Clothing_Attribute_Detection-YOLO_Pipelines-a78bfa?style=for-the-badge)
+![](https://img.shields.io/badge/🤖_Vision--Language_Models-CLIP_·_LLaVA-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_LLMs_&_Transformers-RAG_·_Fine--tuning-6d28d9?style=for-the-badge)
+![](https://img.shields.io/badge/⚡_Real--Time_Inference-ONNX_·_Edge-5b21b6?style=for-the-badge)
 
 ---
 
