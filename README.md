@@ -23,8 +23,8 @@
 > computer vision is my core, but i'm drawn to where vision meets language: VLMs, multimodal reasoning, and systems that do more than classify.
 
 - 🔭 currently **computer vision engineer intern** at nextronic / aba technology
-- 🌱 exploring VLMs · multimodal AI · tracking stability · edge deployment
-- 💬 into object detection · OCR · medical imaging · NLP · generative AI
+- 🌱 growing into the full AI engineering stack — from vision to language to deployment
+- 💬 passionate about building real systems, not just training models
 
 ---
 
