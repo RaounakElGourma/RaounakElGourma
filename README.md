@@ -107,5 +107,5 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=400&lines=%E2%9C%A8+let%27s+build+something+worth+seeing+%E2%9C%A8" alt="footer" />
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=RaounakElGourma&color=e8a0bf&style=flat-square&label=profile+views)
+
 
