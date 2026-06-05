@@ -17,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a8c7fa?style=for-the-badge&logo=linkedin&logoColor=1a5fce)](https://www.linkedin.com/in/raounak-el-gourma/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-d0a8fa?style=for-the-badge&logo=safari&logoColor=4c1d95)](https://raounakelgourma.github.io/Portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-f9a8a8?style=for-the-badge&logo=gmail&logoColor=c0392b)](mailto:elgraounak@gmail.com)
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=RaounakElGourma&color=e8a0bf&style=flat-square&label=profile+views)
 
 </div>
 
