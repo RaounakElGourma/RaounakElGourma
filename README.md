@@ -51,9 +51,9 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=default&hide_border=true&title_color=111827&text_color=6b7280&icon_color=374151"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=6b7280"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
 
 </div>
 
