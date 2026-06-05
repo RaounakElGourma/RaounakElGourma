@@ -1,39 +1,45 @@
 <div align="center">
 
-✦ ✦ ✦ ✦ ✦
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=15&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=500&lines=%E2%9C%A6+AI+%C2%B7+ML+%C2%B7+Computer+Vision+Engineer+%E2%9C%A6" alt="Typing SVG" />
 
-# Raounak *El Gourma*
+# Raounak El Gourma
 
-✨ **AI · ML · Computer Vision Engineer** ✨
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=4000&pause=800&color=C77DBB&center=true&vCenter=true&width=600&lines=Building+systems+that+see+%F0%9F%91%81%EF%B8%8F+%E2%80%94+Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+LLMs;Real-time+detection+%C2%B7+Medical+Imaging+%C2%B7+RAG+Pipelines;Currently+%40+Nextronic+%2F+ABA+Technology+%F0%9F%8C%B8" alt="Typing SVG" />
 
-🌸 Kenitra, Morocco &nbsp;·&nbsp; 💼 Nextronic / ABA Technology &nbsp;·&nbsp; 🟢 Open to Work
+<br/>
+
+![Location](https://img.shields.io/badge/🌸_Kenitra,_Morocco-fce4f3?style=flat-square&labelColor=fce4f3&color=fce4f3&logoColor=8b3a7a)
+![Internship](https://img.shields.io/badge/💼_Nextronic_/_ABA_Technology-f3e8ff?style=flat-square&color=f3e8ff&logoColor=7a3b8a)
+![Status](https://img.shields.io/badge/🟢_Open_to_Work-e8f8f2?style=flat-square&color=e8f8f2&logoColor=5a9b6e)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a8c7fa?style=for-the-badge&logo=linkedin&logoColor=1a5fce)](https://www.linkedin.com/in/raounak-el-gourma/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-d0a8fa?style=for-the-badge&logo=safari&logoColor=4c1d95)](https://raounakelgourma.github.io/Portfolio)
-[![Email](https://img.shields.io/badge/Gmail-f9a8a8?style=for-the-badge&logo=gmail&logoColor=c0392b)](mailto:elgraounak@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-f9a8a8?style=for-the-badge&logo=gmail&logoColor=c0392b)](mailto:elgraounak@gmail.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌸 About Me
 
-I build systems that **see** and **understand** — real-time object detection, medical imaging, and LLM-powered tools. ✨
+I build systems that **see** and **understand** — real-time object detection, medical imaging, and LLM-powered tools ✨
 
 Currently interning at **Nextronic / ABA Technology**, working at the intersection of **computer vision** and **applied AI** — because why not make machines a little smarter? 🧠🌷
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💜 What I'm Building
 
 | | Area | Details |
-|---|---|---|
+|:---:|:---|:---|
 | 👁️ | **Computer Vision** | Real-time detection with YOLOv8/v11, OpenCV, edge inference via ONNX |
 | 🧠 | **Deep Learning** | PyTorch, Transformers, medical imaging pipelines |
 | 💬 | **LLMs & VLMs** | Exploring Qwen, LLaVA — fine-tuning, RAG pipelines |
 | 🚀 | **Deployment** | Flask, Streamlit, ONNX edge, Linux systems |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack
 
@@ -41,9 +47,9 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-f9a8a8?style=flat-square&logo=pytorch&logoColor=c0392b)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fcd34d?style=flat-square&logo=huggingface&logoColor=92400e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-fbbf77?style=flat-square&logo=tensorflow&logoColor=92400e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fbbf77?style=flat-square&logo=tensorflow&logoColor=9a3412)
 ![Keras](https://img.shields.io/badge/Keras-f9a8d4?style=flat-square&logo=keras&logoColor=831843)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-a5f3c0?style=flat-square&logo=scikit-learn&logoColor=064e3b)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-bbf7d0?style=flat-square&logo=scikit-learn&logoColor=064e3b)
 
 **👁️ Computer Vision**
 
@@ -56,7 +62,7 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 ![Python](https://img.shields.io/badge/Python-bfdbfe?style=flat-square&logo=python&logoColor=1d4ed8)
 ![C++](https://img.shields.io/badge/C++-fecaca?style=flat-square&logo=c%2B%2B&logoColor=991b1b)
-![NumPy](https://img.shields.io/badge/NumPy-a5f3c0?style=flat-square&logo=numpy&logoColor=065f46)
+![NumPy](https://img.shields.io/badge/NumPy-bbf7d0?style=flat-square&logo=numpy&logoColor=065f46)
 ![Pandas](https://img.shields.io/badge/Pandas-fde68a?style=flat-square&logo=pandas&logoColor=78350f)
 ![MySQL](https://img.shields.io/badge/MySQL-a8c7fa?style=flat-square&logo=mysql&logoColor=1e3a8a)
 
@@ -64,30 +70,40 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 ![Flask](https://img.shields.io/badge/Flask-e2e8f0?style=flat-square&logo=flask&logoColor=1e293b)
 ![Streamlit](https://img.shields.io/badge/Streamlit-f9a8a8?style=flat-square&logo=streamlit&logoColor=c0392b)
-![Git](https://img.shields.io/badge/Git-fcd34d?style=flat-square&logo=git&logoColor=92400e)
-![Linux](https://img.shields.io/badge/Linux-fde68a?style=flat-square&logo=linux&logoColor=78350f)
-![Jupyter](https://img.shields.io/badge/Jupyter-fbbf77?style=flat-square&logo=jupyter&logoColor=92400e)
+![Git](https://img.shields.io/badge/Git-fde68a?style=flat-square&logo=git&logoColor=92400e)
+![Linux](https://img.shields.io/badge/Linux-fef9c3?style=flat-square&logo=linux&logoColor=713f12)
+![Jupyter](https://img.shields.io/badge/Jupyter-fbbf77?style=flat-square&logo=jupyter&logoColor=9a3412)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=8b3a7a&text_color=9b6b9b&icon_color=c77dbb&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaounakElGourma&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=e8a0bf&icon_color=c77dbb&text_color=d0a8fa"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&hide_border=true&bg_color=fff5fb&title_color=8b3a7a&text_color=9b6b9b"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=midnight-purple&hide_border=true&title_color=e8a0bf&text_color=d0a8fa"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RaounakElGourma&theme=midnight-purple&hide_border=true&ring=e8a0bf&fire=c77dbb&currStreakLabel=d0a8fa" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💼 Open To
 
-`🤖 AI / ML Engineer` &nbsp; `👁️ Computer Vision Engineer` &nbsp; `🌸 Freelance AI/CV Projects` &nbsp; `📊 Data Scientist` &nbsp; `🔬 Research Partnerships`
+![AI ML Engineer](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-f3e8ff?style=for-the-badge&color=f3e8ff&logoColor=4c1d95)
+![CV Engineer](https://img.shields.io/badge/👁️_Computer_Vision_Engineer-fce4f3?style=for-the-badge&color=fce4f3&logoColor=7a3b8a)
+![Freelance](https://img.shields.io/badge/🌸_Freelance_AI%2FCV-e8f8f2?style=for-the-badge&color=e8f8f2&logoColor=065f46)
+![Data Scientist](https://img.shields.io/badge/📊_Data_Scientist-fef9c3?style=for-the-badge&color=fef9c3&logoColor=78350f)
+![Research](https://img.shields.io/badge/🔬_Research_Partnerships-ede9fe?style=for-the-badge&color=ede9fe&logoColor=4c1d95)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<sub>✨ <i>let's build something worth seeing</i> ✨</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=400&lines=%E2%9C%A8+let%27s+build+something+worth+seeing+%E2%9C%A8" alt="footer" />
 </div>
