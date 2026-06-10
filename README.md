@@ -77,22 +77,6 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaounakElGourma&layout=compact&theme=midnight-purple&hide_border=true&title_color=e8a0bf&text_color=d0a8fa"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RaounakElGourma&theme=midnight-purple&hide_border=true&ring=e8a0bf&fire=c77dbb&currStreakLabel=d0a8fa" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 💼 Open To
 
 ![AI ML Engineer](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-f3e8ff?style=for-the-badge&color=f3e8ff&logoColor=4c1d95)
