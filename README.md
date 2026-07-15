@@ -24,64 +24,64 @@
 
 ### 🌸 About Me
 
-I build systems that **see** and **understand** — real-time object detection, medical imaging, and LLM-powered tools ✨
+I build systems that **see** and **understand** real-time object detection, medical imaging, and LLM-powered tools ✨
 
-Currently interning at **Nextronic / ABA Technology**, working at the intersection of **computer vision** and **applied AI** — because why not make machines a little smarter? 🧠🌷
+Currently interning at **Nextronic / ABA Technology**, working at the intersection of **computer vision** and **applied AI** because why not make machines a little smarter? 🧠🌷
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👁️ Computer Vision
 
-- **Object Detection** — YOLOv8/v11 fine-tuning on custom datasets
-- **Multi-Object Tracking** — ByteTrack, IoU matching, track lifecycle management, buffer tuning
-- **Image Classification** — transfer learning, augmentation, class imbalance handling
-- **Re-Identification** — OSNet embeddings, tracklet averaging, cross-camera matching
-- **Video Processing** — frame-by-frame pipelines, RTSP streaming, OpenCV I/O
-- **Edge Inference** — model export and deployment via ONNX
+- **Object Detection** YOLOv8/v11 fine-tuning on custom datasets
+- **Multi-Object Tracking** ByteTrack, IoU matching, track lifecycle management, buffer tuning
+- **Image Classification** transfer learning, augmentation, class imbalance handling
+- **Re-Identification**  OSNet embeddings, tracklet averaging, cross-camera matching
+- **Video Processing**  frame-by-frame pipelines, RTSP streaming, OpenCV I/O
+- **Edge Inference**  model export and deployment via ONNX
 
 ### 🧠 Deep Learning
 
-- **PyTorch** — model loading, inference, `no_grad`, device management, `state_dict` handling
-- **timm** — pretrained EfficientNet backbones, custom classifier heads
-- **Transfer Learning** — layer freezing/unfreezing, fine-tuning on domain-specific data
-- **Model Optimization** — vote buffers, majority voting, EMA smoothing for stable predictions
-- **Vision-Language Models** — OpenCLIP (ViT-B-32), contrastive learning, zero-shot classification with natural-language prompts
-- **Classical ML** — scikit-learn: supervised learning, regression/classification workflows, model evaluation
-- **Generative AI & LLMs** — LLM architecture fundamentals, data preparation for generative models, RAG pipeline concepts
-- **Frameworks** — TensorFlow, Keras, Hugging Face Transformers
-- **Exploration** — Qwen, LLaVA fine-tuning
+- **PyTorch** model loading, inference, `no_grad`, device management, `state_dict` handling
+- **timm** pretrained EfficientNet backbones, custom classifier heads
+- **Transfer Learning**  layer freezing/unfreezing, fine-tuning on domain-specific data
+- **Model Optimization** vote buffers, majority voting, EMA smoothing for stable predictions
+- **Vision-Language Models** OpenCLIP (ViT-B-32), contrastive learning, zero-shot classification with natural-language prompts
+- **Classical ML** scikit-learn: supervised learning, regression/classification workflows, model evaluation
+- **Generative AI & LLMs** LLM architecture fundamentals, data preparation for generative models, RAG pipeline concepts
+- **Frameworks** TensorFlow, Keras, Hugging Face Transformers
+- **Exploration** Qwen, LLaVA fine-tuning
 
 ### 💻 Software Engineering
 
-- **Pipeline Architecture** — modular design, callback-based systems, separation of concerns
-- **State Management** — buffered state with lock mechanisms, pruning on data disappearance
-- **Subprocess Isolation** — running heavy compute pipelines without blocking a UI thread
-- **Atomic File Writes** — safe file replacement patterns for live data streams
-- **Graceful Shutdown** — flag-based termination for long-running processes
-- **Python** — pathlib, defaultdict, dataclasses, subprocess, tempfile
+- **Pipeline Architecture**  modular design, callback-based systems, separation of concerns
+- **State Management** buffered state with lock mechanisms, pruning on data disappearance
+- **Subprocess Isolation** running heavy compute pipelines without blocking a UI thread
+- **Atomic File Writes** safe file replacement patterns for live data streams
+- **Graceful Shutdown** flag-based termination for long-running processes
+- **Python**  pathlib, defaultdict, dataclasses, subprocess, tempfile
 
 ### 🗄️ Data & Databases
 
-- **SQLite** — schema design, constraints, upsert patterns, migrations, multi-table joins
-- **Data Modeling** — relational schema design, confidence/metadata fields
-- **Query Building** — dynamic filtering, parameterized queries
-- **Pandas / NumPy** — data wrangling, numerical computing
+- **SQLite**  schema design, constraints, upsert patterns, migrations, multi-table joins
+- **Data Modeling** relational schema design, confidence/metadata fields
+- **Query Building** dynamic filtering, parameterized queries
+- **Pandas / NumPy** data wrangling, numerical computing
 
 ### 🌐 Web Development
 
-- **Streamlit** — multi-page apps, session state, file uploads, subprocess management, custom CSS
-- **Flask** — lightweight API/service development
-- **UI/UX** — responsive design, live data components, real-time UI updates
-- **Real-Time Features** — auto-refresh polling, live process monitoring
+- **Streamlit** multi-page apps, session state, file uploads, subprocess management, custom CSS
+- **Flask** lightweight API/service development
+- **UI/UX** responsive design, live data components, real-time UI updates
+- **Real-Time Features** auto-refresh polling, live process monitoring
 
 ### 🛠️ Tools & Environment
 
-- **Git / GitHub** — version control, workflows, large-file handling
-- **OpenCV** — BGR/LAB/HSV color spaces, polygon masking, video I/O, overlays
-- **Anaconda / venv** — dependency and environment management, pinned versions
-- **Jupyter Notebooks** — experimentation, visualization with Matplotlib
-- **Linux** — command-line workflows, systems basics
-- **MySQL** — relational database fundamentals
+- **Git / GitHub** version control, workflows, large-file handling
+- **OpenCV** BGR/LAB/HSV color spaces, polygon masking, video I/O, overlays
+- **Anaconda / venv** dependency and environment management, pinned versions
+- **Jupyter Notebooks** experimentation, visualization with Matplotlib
+- **Linux** command-line workflows, systems basics
+- **MySQL** relational database fundamentals
 
 ### 🔍 Problem-Solving & Research Skills
 
