@@ -51,14 +51,6 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 - **Frameworks** TensorFlow, Keras, Hugging Face Transformers
 - **Exploration** Qwen, LLaVA fine-tuning
 
-### 💻 Software Engineering
-
-- **Pipeline Architecture**  modular design, callback-based systems, separation of concerns
-- **State Management** buffered state with lock mechanisms, pruning on data disappearance
-- **Subprocess Isolation** running heavy compute pipelines without blocking a UI thread
-- **Atomic File Writes** safe file replacement patterns for live data streams
-- **Graceful Shutdown** flag-based termination for long-running processes
-- **Python**  pathlib, defaultdict, dataclasses, subprocess, tempfile
 
 ### 🗄️ Data & Databases
 
@@ -71,7 +63,6 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 
 - **Streamlit** multi-page apps, session state, file uploads, subprocess management, custom CSS
 - **Flask** lightweight API/service development
-- **UI/UX** responsive design, live data components, real-time UI updates
 - **Real-Time Features** auto-refresh polling, live process monitoring
 
 ### 🛠️ Tools & Environment
@@ -82,14 +73,6 @@ Currently interning at **Nextronic / ABA Technology**, working at the intersecti
 - **Jupyter Notebooks** experimentation, visualization with Matplotlib
 - **Linux** command-line workflows, systems basics
 - **MySQL** relational database fundamentals
-
-### 🔍 Problem-Solving & Research Skills
-
-- Systematic method iteration and tradeoff documentation
-- Debugging distribution shift and out-of-distribution artifacts in vision models
-- Threshold tuning for similarity/confidence-based decisions
-- Failure analysis and root-causing model underperformance
-- Trade-off reasoning: precision vs. coverage, speed vs. accuracy, CPU vs. GPU constraints
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
