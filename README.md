@@ -9,7 +9,6 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/🌸_Kenitra,_Morocco-fce4f3?style=flat-square&labelColor=fce4f3&color=fce4f3&logoColor=8b3a7a)
-![Internship](https://img.shields.io/badge/💼_Nextronic_/_ABA_Technology-f3e8ff?style=flat-square&color=f3e8ff&logoColor=7a3b8a)
 ![Status](https://img.shields.io/badge/🟢_Open_to_Work-e8f8f2?style=flat-square&color=e8f8f2&logoColor=5a9b6e)
 
 <br/>
@@ -25,8 +24,6 @@
 ### 🌸 About Me
 
 I build systems that **see** and **understand** real-time object detection, medical imaging, and LLM-powered tools ✨
-
-Currently interning at **Nextronic / ABA Technology**, working at the intersection of **computer vision** and **applied AI** because why not make machines a little smarter? 🧠🌷
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
