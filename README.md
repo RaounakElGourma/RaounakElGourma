@@ -21,8 +21,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaounakElGourma&color=a78bfa&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
