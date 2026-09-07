@@ -41,7 +41,7 @@ machine learning models and Retrieval-Augmented Generation.
 
 # 🛠️ Core Stack
 
-### 👁️ Computer Vision
+### Computer Vision
 
 ![YOLO](https://img.shields.io/badge/YOLOv8_%2F_YOLO11-d0a8fa?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-a8c7fa?style=flat-square&logo=opencv&logoColor=1e3a8a)
@@ -55,7 +55,7 @@ machine learning models and Retrieval-Augmented Generation.
 
 ---
 
-### 🧠 AI & Machine Learning
+### AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-f9a8a8?style=flat-square&logo=pytorch&logoColor=c0392b)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-fbbf77?style=flat-square&logo=tensorflow&logoColor=9a3412)
@@ -67,7 +67,7 @@ machine learning models and Retrieval-Augmented Generation.
 
 ---
 
-### ✨ Generative AI & NLP
+###  Generative AI & NLP
 
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-fcd34d?style=flat-square&logo=huggingface&logoColor=92400e)
 ![RAG](https://img.shields.io/badge/RAG-e0c3fc?style=flat-square)
@@ -79,7 +79,7 @@ machine learning models and Retrieval-Augmented Generation.
 
 ---
 
-### 💻 Development & Data
+###  Development & Data
 
 ![Python](https://img.shields.io/badge/Python-bfdbfe?style=flat-square&logo=python&logoColor=1d4ed8)
 ![Pandas](https://img.shields.io/badge/Pandas-fde68a?style=flat-square&logo=pandas&logoColor=78350f)
@@ -94,7 +94,7 @@ machine learning models and Retrieval-Augmented Generation.
 
 ---
 
-## 💼 Open to Opportunities
+## Open to Opportunities
 
 I'm currently open to opportunities in:
 
